@@ -8,4 +8,4 @@ A simple tool to crypt/decrypt xor. Write during a ctf.
 
 ```bash
 python3 pyxor.py -c cypher_file -k key -o output
-``̀ 
+```
